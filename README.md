@@ -7,19 +7,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5f0d8f8a77f7e14a3c0d04dad7.gif" />
 
-- 🔭 I’m currently working on **C++ backend projects and frontend apps with React**
+- 🔭 I'm currently working on **mastering advanced C/C++ programming concepts**
 
-- 🌱 I’m currently learning **Advanced C concepts, STL optimization, React performance**
+- 🌱 I'm currently learning **C/C++ system programming and Unreal Engine 5 development**
 
-- 👯 I’m looking to collaborate on **open-source C++ libraries and frontend frameworks**
+- 👯 I'm looking to collaborate on **open-source C++ projects and game development**
 
-- 🤝 I’m looking for help with **system design and scalable UI development**
+- 🤝 I'm looking for help with **low-level system programming and game engine architecture**
 
-- 💬 Ask me about **C++, C, React, TypeScript**
+- 💬 Ask me about **C/C++, Cloud SOAR (Playbook Action recommend system), Unreal Engine 5**
 
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **requiemtedy@gmail.com**
 
-- ⚡ Fun fact: **I love optimizing both systems and designs for efficiency!**
+- ⚡ Fun fact: **I developed a Cloud SOAR system with automated playbook recommendations!**
 
 ---
 
@@ -41,11 +41,11 @@
 <h2 align="left">📈 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaeHo-Yoon1&show_icons=true&theme=tokyonight" alt="TaeHo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TaeHo-Yoon1&show_icons=true&theme=tokyonight&include_all_commits=true" alt="TaeHo's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeHo-Yoon1&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeHo-Yoon1&layout=compact&theme=tokyonight&include_all_commits=true" alt="Top Languages" />
 </p>
 
 ---
