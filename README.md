@@ -41,11 +41,11 @@
 <h2 align="left">📈 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaeHo-Yoon1&show_icons=true&theme=tokyonight&include_all_commits=true" alt="TaeHo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TaeHo-Yoon1&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true" alt="TaeHo's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeHo-Yoon1&layout=compact&theme=tokyonight&include_all_commits=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeHo-Yoon1&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
