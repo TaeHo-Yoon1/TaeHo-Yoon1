@@ -53,5 +53,5 @@
 <h2 align="left">🔥 Streak Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaeHo-Yoon1&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaeHo-Yoon1&background=1a1b27&border=ffffff00&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&sideNums=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff" alt="Streak Stats" />
 </p>
