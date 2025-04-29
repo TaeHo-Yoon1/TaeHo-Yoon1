@@ -41,15 +41,11 @@
 <h2 align="left">📈 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaeHo-Yoon1&show_icons=true&bg_color=0D1117&title_color=FF6B81&text_color=A4B1D6&icon_color=FF6B81&hide_border=true&include_all_commits=true&custom_title=TaeHo's%20GitHub%20Stats" alt="TaeHo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TaeHo-Yoon1&show_icons=true&bg_color=1a1b27&title_color=ffffff&text_color=ff69b4&icon_color=ff69b4&hide_border=true&include_all_commits=true&custom_title=TaeHo's%20GitHub%20Stats&ring_color=ff69b4" alt="TaeHo's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaeHo-Yoon1&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=A4B1D6&icon_color=58A6FF&hide_border=true&include_all_commits=true&custom_title=TaeHo's%20GitHub%20Stats" alt="TaeHo's GitHub stats (Blue)" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaeHo-Yoon1&show_icons=true&bg_color=0D1117&title_color=C9D1D9&text_color=C9D1D9&icon_color=FFD700&hide_border=true&include_all_commits=true&custom_title=TaeHo's%20GitHub%20Stats" alt="TaeHo's GitHub stats (Gold)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeHo-Yoon1&layout=compact&bg_color=1a1b27&title_color=ffffff&text_color=ff69b4&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
