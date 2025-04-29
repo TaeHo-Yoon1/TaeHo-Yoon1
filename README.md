@@ -48,10 +48,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeHo-Yoon1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=TaeHo-Yoon1&theme=tokyonight&area=true&hide_title=false" />
-</p>
+---
 
+<h2 align="left">🗓️ Total Commits (2024):</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TaeHo-Yoon1&show_icons=true&theme=tokyonight&custom_title=Total+Commits+in+2024&count_private=true&include_all_commits=true" />
+</p>
 ---
 
 <h2 align="left">🔥 Streak Stats:</h2>
