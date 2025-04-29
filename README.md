@@ -55,3 +55,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaeHo-Yoon1&background=1a1b27&border=ffffff00&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&sideNums=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff" alt="Streak Stats" />
 </p>
+
+<h2 align="left">📊 Contribution Graph:</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaeHo-Yoon1&bg_color=1a1b27&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
